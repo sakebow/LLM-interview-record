@@ -2,16 +2,17 @@
 title: 面试记录
 date: 2025-08-22 9:10:45
 categories:
-  - LLM
+  - interview
 tags:
   - LLM
+  - interview
 ---
 
 # 前言
 
 这个库是`Hexo`的一个部分，所以保留了上面这些title之类的玩意儿。
 
-剩下的就是`markdown`了。
+剩下的就是`markdown`了，内容就是`LLM`相关的一些面试问题，以及一些好心面试官给的发展建议，算是错题本吧。
 
 <!-- more -->
 
@@ -23,7 +24,7 @@ tags:
 
 毕竟在央企待废了，面不了什么好地方。
 
-如果你觉得没有目录很难找，也可以尝试在这里找找看：[我的Hexo](http://hexo.sakebow.cn/)，毕竟同步更新。
+如果你觉得没有目录很难找，也可以尝试在这里找找看：[我的Hexo](http://hexo.sakebow.cn/tags/Interview/)，毕竟同步更新。
 
 逼逼叨叨的也就不在多写了，接下来我尽量把问题拆成单独的文件，标题写清楚，方便各位预览。
 
